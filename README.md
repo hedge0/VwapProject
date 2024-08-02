@@ -1,5 +1,15 @@
+# VWAP Trading Bot in Python
 
-## Getting Started
+## Overview
+
+The VWAP Trading Bot is a Python-based solution designed to streamline your trading strategy by automating trades in index futures. This bot interacts with TradingView and the Tastytrade API, allowing for seamless execution of trades based on your TradingView alerts.
+
+## Key Features
+
+- **Real-Time Alerts:** Accepts incoming TradingView requests via webhooks to trigger trades.
+- **Automated Trading:** Executes trades in index futures using the Tastytrade API.
+- **Hosted on DigitalOcean:** Ensures reliable and scalable performance.
+- **Customizable Scripts:** Integrate and modify Pine Script strategies from TradingView for precise trading decisions.
 
 ### Prerequisites
 
